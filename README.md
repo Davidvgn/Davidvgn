@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm David !
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=davidvgn)](https://github.com/anuraghazra/github-readme-stats)
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=davidvgn&show_icons=true&theme=radical)
 
 I am currently learning Android development using Java and Kotlin while working as an intern, specializing in Flutter app development with Dart in a company. This dual role allows me to gain expertise in both native Android and cross-platform mobile development, enhancing my skills and versatility as a developer.
 <!--
