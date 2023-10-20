@@ -7,9 +7,9 @@ I am currently immersing myself in Android development, honing my skills in Java
 My journey in Android development has equipped me with proficiency in a diverse set of tools and best practices. I have become proficient in the use of  :
 
 - ☑️ Android fundamentals, such as  :
--   ☑️ Activity and Fragment
--   ☑️ BottomNavigationBar and NavigationDrawer
--   ☑️ Toolbar, CollapsingToolbarLayout and ConstraintLayout
+  - ☑️ Activity and Fragment
+  - ☑️ BottomNavigationBar and NavigationDrawer
+  - ☑️ Toolbar, CollapsingToolbarLayout and ConstraintLayout
 - ☑️ Location-based features with Google Maps API
 - ☑️ Hilt for efficient Dependency Injection (DI)
 - ☑️ Room for seamless local data management
