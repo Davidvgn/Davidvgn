@@ -6,14 +6,21 @@ I am currently immersing myself in Android development, honing my skills in Java
 
 My journey in Android development has equipped me with proficiency in a diverse set of tools and best practices. I have become proficient in the use of  :
 
-- ☑️ Hilt for efficient Dependency Injection (DI),
-- ☑️ Room for seamless local data management,
-- ☑️ implementation of the MVVM pattern combined with LiveData,
-- ☑️ creating responsive and data-oriented user interfaces.
+- ☑️ Android fundamentals, such as  :
+-   ☑️ Activity and Fragment
+-   ☑️ BottomNavigationBar and NavigationDrawer
+-   ☑️ Toolbar, CollapsingToolbarLayout and ConstraintLayout
+- ☑️ Location-based features with Google Maps API
+- ☑️ Hilt for efficient Dependency Injection (DI)
+- ☑️ Room for seamless local data management
+- ☑️ Implementation of the MVVM pattern combined with LiveData
+- ☑️ Creating responsive and data-oriented user interfaces
 - ☑️ Retrofit for simplified network requests and API interactions
-- ☑️ RecyclerView for dynamic and efficient display of data.
-
-In addition to these core elements, I have demonstrated expertise in Android fundamentals, such as Activity and Fragment, and harnessed the power of Google Maps for location-based features. I've designed smooth and intuitive navigation experiences through components like BottomNavigationBar and NavigationDrawer, while crafting polished and user-friendly UIs using Toolbar and CollapsingToolbarLayout with the versatile ConstraintLayout. I've optimized image handling with Glide and integrated Firebase Firestore to enable real-time database functionality. Leveraging the Repository Pattern, I ensure that my code remains maintainable and scalable. My commitment to quality shines through my rigorous testing and validation using JUnit and Mockito. These combined skills empower me to create rich and exceptional Android applications, providing users with an outstanding experience.
+- ☑️ RecyclerView for dynamic and efficient display of data
+- ☑️ Repository Pattern to ensure that my code remains maintainable and scalable
+- ☑️ JUnit and Mockito for rigorous testing and validation 
+- ☑️ Glide to optimized image handling
+- ☑️ Firebase Firestore to enable real-time database functionality
 
 You may see all of it in my project [Go4lunch](https://github.com/Davidvgn/go4lunch)
 
