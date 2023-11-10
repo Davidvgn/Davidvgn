@@ -17,7 +17,7 @@ My journey in Android development has equipped me with proficiency in a diverse 
 - ☑️ Creating responsive and data-oriented user interfaces
 - ☑️ Retrofit for simplified network requests and API interactions
 - ☑️ RecyclerView for dynamic and efficient display of data
-  [RecyclerView In Kotlin](https://github.com/Davidvgn/recyclerView_Kotlin)
+  - [RecyclerView In Kotlin](https://github.com/Davidvgn/recyclerView_Kotlin)
 - ☑️ Repository Pattern to ensure that my code remains maintainable and scalable
 - ☑️ JUnit and Mockito for rigorous testing and validation 
 - ☑️ Glide to optimized image handling
