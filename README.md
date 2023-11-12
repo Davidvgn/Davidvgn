@@ -6,24 +6,24 @@ I am currently immersing myself in Android development, honing my skills in Java
 
 My journey in Android development has equipped me with proficiency in a diverse set of tools and best practices. I have become proficient in the use of  :
 
-- ☑️ Android fundamentals, such as  :
-  - ☑️ Activity and Fragment
-  - ☑️ BottomNavigationBar and NavigationDrawer
-  - ☑️ Toolbar, CollapsingToolbarLayout and ConstraintLayout
-- ☑️ Location-based features with Google Maps API
-- ☑️ Hilt for efficient Dependency Injection (DI)
-- ☑️ Room for seamless local data management
-- ☑️ Implementation of the MVVM pattern combined with LiveData
-- ☑️ Creating responsive and data-oriented user interfaces
-- ☑️ Retrofit for simplified network requests and API interactions
-- ☑️ RecyclerView for dynamic and efficient display of data
+- ✅ Android fundamentals, such as  :
+  - 👉 Activity and Fragment
+  - 👉 BottomNavigationBar and NavigationDrawer
+  - 👉 Toolbar, CollapsingToolbarLayout and ConstraintLayout
+- ✅ Location-based features with Google Maps API
+- ✅ Hilt for efficient Dependency Injection (DI)
+- ✅ Room for seamless local data management
+- ✅ Implementation of the MVVM pattern combined with LiveData
+- ✅ Creating responsive and data-oriented user interfaces
+- ✅ Retrofit for simplified network requests and API interactions
+- ✅ RecyclerView for dynamic and efficient display of data
   - [Basic RecyclerView In Kotlin](https://github.com/Davidvgn/recyclerView_Kotlin)
-- ☑️ Repository Pattern to ensure that my code remains maintainable and scalable
-- ☑️ JUnit and Mockito for rigorous testing and validation 
-- ☑️ Glide to optimized image handling
-- ☑️ Firebase Firestore to enable real-time database functionality
+- ✅ Repository Pattern to ensure that my code remains maintainable and scalable
+- ✅ JUnit and Mockito for rigorous testing and validation 
+- ✅ Glide to optimized image handling
+- ✅ Firebase Firestore to enable real-time database functionality
 
-### You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch) :
+👇 ### You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch) : 👇
 *Each devices has his own google account even if in this example it is the same name and surname.*
 
 Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
