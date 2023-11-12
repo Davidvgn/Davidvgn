@@ -33,9 +33,10 @@ Here, you can observe the use of OAuth, the implementation of multilingual ðŸ‡¬ð
 - Once the user is logged in, they can select the restaurant where they plan to eat. Subsequently, in the workmates fragment, all users can see where their colleagues have planned to dine.
 - Furthermore, users can click on the menu and navigate to 'Your Lunch' to view the restaurant they have selected for their meal.
 
-![oauth"](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_selected_restaurant.gif)
+![oauth](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_selected_restaurant.gif)
 
 Here, users have the ability to engage in real-time chat:
+![chat](https://github.com/Davidvgn/Davidvgn/blob/main/chat.gif)
 
 
 Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. Simultaneously, in the List View, only the matching restaurant is visible on the list.
