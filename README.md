@@ -29,7 +29,7 @@ My journey in Android development has equipped me with proficiency in a diverse 
  
 *Each devices has his own google account even if in this example it is the same name and surname.*
 
-Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
+🔹 Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
   - Map View: Displays the user's location with surrounding restaurants.
   - List View: Presents a list of all restaurants in the vicinity of the user.
   - Workmates: Displays a list of the user's workmates.
@@ -39,12 +39,12 @@ Here, you can observe the use of OAuth, the implementation of multilingual 🇬�
 
 ![oauth](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_selected_restaurant.gif)
 
-Here, workmates have the ability to engage in real-time chat:
+🔹 Here, workmates have the ability to engage in real-time chat:
 
 ![chat](https://github.com/Davidvgn/Davidvgn/blob/main/chat.gif)
 
 
-Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. In the List View, only the matching restaurant is visible on the list.
+🔹 Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. In the List View, only the matching restaurant is visible on the list.
 
 ![search](https://github.com/Davidvgn/Davidvgn/blob/main/recherche%20(1).gif)
 
