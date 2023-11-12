@@ -25,7 +25,7 @@ My journey in Android development has equipped me with proficiency in a diverse 
 
  ### You may see all of it in my project in Java
  
- 👇👇👇 [Go4lunch](https://github.com/Davidvgn/go4lunch) : 👇👇👇
+ 👇 [Go4lunch](https://github.com/Davidvgn/go4lunch) 👇
  
 *Each devices has his own google account even if in this example it is the same name and surname.*
 
