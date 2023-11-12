@@ -23,8 +23,8 @@ My journey in Android development has equipped me with proficiency in a diverse 
 - ✅ Glide to optimized image handling
 - ✅ Firebase Firestore to enable real-time database functionality
 
-👇 ### You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch) : 👇
-
+ ### You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch) :
+ 
 *Each devices has his own google account even if in this example it is the same name and surname.*
 
 Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
