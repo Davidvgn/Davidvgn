@@ -25,7 +25,8 @@ My journey in Android development has equipped me with proficiency in a diverse 
 
 You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch)
 
-![Here you can see use of Oauth, 3 fragments "Map, List, Workmates"](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif)
+<!--![Here you can see use of Oauth, 3 fragments "Map, List, Workmates"](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif)-->
+<img src="https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif" width="25" height="20"/>
 
 
 <!--
