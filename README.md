@@ -40,6 +40,8 @@ Here, users have the ability to engage in real-time chat:
 
 
 Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. Simultaneously, in the List View, only the matching restaurant is visible on the list.
+![chat](https://github.com/Davidvgn/Davidvgn/blob/main/recherche%20(1).gif)
+
 <!--
 **Davidvgn/Davidvgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
