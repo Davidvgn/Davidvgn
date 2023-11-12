@@ -25,10 +25,20 @@ My journey in Android development has equipped me with proficiency in a diverse 
 
 You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch)
 
-<!--![Here you can see use of Oauth, 3 fragments "Map, List, Workmates"](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif)-->
-<img src="https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif" width="25" height="20"/>
+Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
+  - Map View: Displays the user's location with surrounding restaurants.
+  - List View: Presents a list of all restaurants in the vicinity of the user.
+  - Workmates: Displays a list of the user's workmates.
+
+- Once the user is logged in, they can select the restaurant where they plan to eat. Subsequently, in the workmates fragment, all users can see where their colleagues have planned to dine.
+- Furthermore, users can click on the menu and navigate to 'Your Lunch' to view the restaurant they have selected for their meal.
+
+![oauth"]([https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_choosed_restaurant.gif](https://github.com/Davidvgn/Davidvgn/blob/main/oauth_%26_selected_restaurant.gif)
+
+Here, users have the ability to engage in real-time chat:
 
 
+Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. Simultaneously, in the List View, only the matching restaurant is visible on the list.
 <!--
 **Davidvgn/Davidvgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
