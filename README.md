@@ -1,4 +1,4 @@
-### Hi there 👋, I'm David !
+## Hi there 👋, I'm David !
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=davidvgn&show_icons=true&theme=radical)
 
@@ -23,7 +23,7 @@ My journey in Android development has equipped me with proficiency in a diverse 
 - ☑️ Glide to optimized image handling
 - ☑️ Firebase Firestore to enable real-time database functionality
 
-You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch)
+### You may see all of it in my project in Java [Go4lunch](https://github.com/Davidvgn/go4lunch)
 
 Here, you can observe the use of OAuth, the implementation of multilingual 🇬🇧/🇫🇷, and three distinct fragments:
   - Map View: Displays the user's location with surrounding restaurants.
@@ -42,7 +42,7 @@ Here, users have the ability to engage in real-time chat:
 
 Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. In the List View, only the matching restaurant is visible on the list.
 
-![chat](https://github.com/Davidvgn/Davidvgn/blob/main/recherche%20(1).gif)
+![search](https://github.com/Davidvgn/Davidvgn/blob/main/recherche%20(1).gif)
 
 <!--
 **Davidvgn/Davidvgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
