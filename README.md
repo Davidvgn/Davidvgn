@@ -41,7 +41,7 @@ My journey in Android development has equipped me with proficiency in a diverse 
 
 🔹 Here, workmates have the ability to engage in real-time chat:
 
-![chat](https://github.com/Davidvgn/Davidvgn/blob/main/chat.gif)
+![chat](https://github.com/Davidvgn/Davidvgn/blob/main/chat_view.gif)
 
 
 🔹 Here, a user can utilize a search bar to find a restaurant, complete with predictive suggestions. In the Map View, the color marker for the matching restaurant undergoes a change, providing visual feedback. In the List View, only the matching restaurant is visible on the list.
